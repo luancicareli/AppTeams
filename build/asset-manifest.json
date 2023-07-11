@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AppTeams/static/css/main.af29d0ab.css",
+    "main.js": "/AppTeams/static/js/main.90cdb4f4.js",
+    "index.html": "/AppTeams/index.html",
+    "main.af29d0ab.css.map": "/AppTeams/static/css/main.af29d0ab.css.map",
+    "main.90cdb4f4.js.map": "/AppTeams/static/js/main.90cdb4f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af29d0ab.css",
+    "static/js/main.90cdb4f4.js"
+  ]
+}
